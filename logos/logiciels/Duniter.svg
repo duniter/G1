@@ -15,11 +15,11 @@
    viewBox="0 0 850.3937 850.3937"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="duniter-logo.svg"
-   inkscape:export-filename="/home/inso/Graphismes/Final/duniter-logo.png"
-   inkscape:export-xdpi="90"
-   inkscape:export-ydpi="90">
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   sodipodi:docname="Duniter.svg"
+   inkscape:export-filename="C:\Users\Millicent\gitWorkspace\duntier-ecosytem\G1\logos\logiciels\Duniter.png"
+   inkscape:export-xdpi="27.093334"
+   inkscape:export-ydpi="27.093334">
   <defs
      id="defs4">
     <linearGradient
@@ -59,15 +59,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.32"
-     inkscape:cx="452.89414"
-     inkscape:cy="196.61178"
+     inkscape:cx="456.92631"
+     inkscape:cy="504.11539"
      inkscape:document-units="px"
      inkscape:current-layer="layer4"
      showgrid="false"
-     inkscape:window-width="1366"
-     inkscape:window-height="711"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-width="1080"
+     inkscape:window-height="1857"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      showguides="false">
     <inkscape:grid
@@ -82,7 +82,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
